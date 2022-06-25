@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C65D-9667
+
+ Directory of C:\Users\gandl\Desktop\GIT
+
+25-06-2022  23:26    <DIR>          .
+25-06-2022  23:25    <DIR>          ..
+25-06-2022  23:26                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  171,694,108,672 bytes free
